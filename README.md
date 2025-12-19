@@ -56,7 +56,8 @@
 | [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | Crowd‑sourced Elo ranking of chat models |
 | [mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | 100 + languages, 1000 + NLP tasks |
 | [artificialanalysis.ai](https://artificialanalysis.ai/) | Intelligence of leading AI models based on their independent evaluations|
-| [yupp.ai/leaderboard](https://yupp.ai/leaderboard) | Based on User Feedback from testing it in their site|
+| [yupp.ai/leaderboard](https://yupp.ai/leaderboard) | Based on User Feedback from Feedback from Yupp.ai Usage|
+| [lmmarena.ai/leaderboard](https://lmarena.ai/leaderboard) | Based on Crowd Sourced Feedback from LLMArena Usage |
 
 
 ---
