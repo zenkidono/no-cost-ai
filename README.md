@@ -14,7 +14,7 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [💬 Chat](#chat-interfaces)| 30
+| [💬 Chat](#chat-interfaces)| 31
 | [🎞️ Media](#media-generation)| 4
 | [🗣️ Voice](#voice--music)| 1
 | [🖥️ IDEs](#ai-ides) | 0
@@ -93,6 +93,7 @@
 | [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
 | [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`|Unlimited|
 | [kimi.com](https://kimi.com) |`K2`, `K1.5` | some usage more if you signup or host the model urself its opensource|
+| [theoldllm.vercel.app](https://theoldllm.vercel.app/) | Unknown | Unknown |
 
 
 
