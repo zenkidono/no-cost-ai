@@ -37,7 +37,7 @@
 | [🎞️ Media](#media-generation-1) | 11
 | [🗣️ Voice](#voice--music-1) | 4
 | [🖥️ IDEs](#ai-ides-1) | 2
-| [🔧 APIs](#developer-apis--platforms-1) | 15
+| [🔧 APIs](#developer-apis--platforms-1) | 16
 </h2> 
 
 </kbd>
@@ -198,6 +198,7 @@
 | [ibm.com](https://www.ibm.com/products/watsonx-ai) | | |
 | [huggingface.co](https://huggingface.co/models) | | |
 | [ai-sdk.dev](https://ai-sdk.dev) | | |
+| [pollinations.ai](https://pollinations.ai/) |**Text:** `amazon-nova-micro`, `gemini-2.5-flash-lite`, `mistral`, `qwen-coder`, `openai`, `openai-fast`, `openai-large`, `gemini-3-flash`, `deepseek-v3`, `claude-haiku-4.5`, `claude-sonnet-4.5`, `claude-opus-4.5`, `perplexity-sonar`, `kimi-k2-thinking`, `glm-4.7`, `minimax-m2.1` **Image:** `flux`, `zimage`, `turbo`, `gptimage`, `kontext`, `seedream`, `nanobanana`, `nanobanana-pro` **Video:** `seedance`, `veo`|1-20 pollen/day free (tier-based).
 | [llm7.io](https://llm7.io/) |`bidara`, `codestral-2405`, `codestral-2501`, `deepseek-r1-0528`, `elixposearch`, `gpt-4.1-nano-2025-04-14`, `gpt-4o-mini-2024-07-18`, `gpt-o3-2025-04-16`, `grok-3-mini-high`, `llama-3.1-8b-instruct-fp8`, `llama-4-scout-17b-16e-instruct`, `llama-fast-roblox`, `mistral-3b-2410`, `mistral-8b-2410`, `mirexa`, `mistral-large-2402`, `mistral-large-2407`, `mistral-large-2411`, `mistral-medium`, `mistral-nemo-roblox`, `mistral-saba-2502`, `mistral-small-2402`, `mistral-small-2409`, `mistral-small-2501`, `mistral-small-2503`, `mistral-small-3.1-24b`, `mistral-small-3.1-24b-instruct-2503`, `open-mistral-7b`, `open-mistral-nemo`, `open-mixtral-8x22b`, `open-mixtral-8x7b`, `phi-4-multimodal-instruct`, `pixtral-12b-2409`, `pixtral-large-2411`, `qwen2.5-coder-32b-instruct`, `rtist`|Max rate 150 per min |
 | [developer.puter.com](https://developer.puter.com/tutorials/free-unlimited-ai-api/) also [introduction](https://docs.puter.com/introduction/)|Too many to list..|None usage is account based|
 
