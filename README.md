@@ -15,7 +15,7 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [💬 Chat](#chat-interfaces)| 29
+| [💬 Chat](#chat-interfaces)| 27
 | [🎞️ Media](#media-generation)| 5
 | [🗣️ Voice](#voice--music)| 3
 | [🎞️ Media](#media-generation)| 4
@@ -75,7 +75,6 @@
 | [sharedchat.cn](https://sharedchat.cn)|`gpt-4o`, `o3`, `o3-pro`, `o4-mini`, `o4-mini-high`|`Unlimited` but may be hard to get a responce as many others use it aswell but it really does work|
 | [phind.com](https://www.phind.com) | `Phind-70B`|`Unlimited`|
 | [groq.com](https://groq.com) | `15+| `30 requests` / min, `40 000 tokens` / min|
-| [app.lumioai.tech](https://app.lumioai.tech/) |`gpt-4o-mini`, `gpt-4.1-nano`, `gemini-2.0-flash`, `deepseek-v3-us-hosted`, `llama-4-scout-17b`, `sonar`|reasonable usage limits they say|
 | [chatgpt.com](https://chatgpt.com) |`GPT 3.5`, `GPT‑4 o`| `5-10 messages` of GPT 4o |
 | [chat.mistral.ai](https://chat.mistral.ai) |`Le Chat`| `10 Messages` Resets Every 24h |
 | [perplexity.ai](https://perplexity.ai) |`GPT 3.5`, `GPT-4.1`, `Claude 4.0 Sonnet`|<kbd>• 3 Pro searches per day/unlimited basic quick searches. <br><br>• Up to 5 follow-up questions every 4 hours. <br><br>• 3 File uploads per day.<br><br>• Daily limits reset at midnight PT (UTC-7 or UTC-8).<kbd>  |
@@ -85,7 +84,6 @@
 | [sur.pollinations.ai](https://sur.pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
 | [umint-ai.hf.space](https://umint-ai.hf.space/) |`gpt-4o-mini`, `grok-3-mini`, `gpt-4.1-nano`, `deepseek-r1-0528`, `gpt-4.1`, `qwen2.5-coder-32b`, `bidara`, `mistral-small-3.1-24b`, `phi-4-mini-3.8b`| Unlimited |
 | [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
-| [aichatgptfree.org](https://aichatgptfree.org/) |`GPT-4`, `Deepseek AI`, `Gemini AI`, `XAI`, `Qwen AI` | Unlimited |
 | [heck.ai](https://heck.ai) |``deepseek-v3`, `deepseek-r1-pro`, `gemini-2.5-flash`, `chatgpt-4o-mini`, `chatgpt-4.1-mini`, `grok-3-mini`, `llama-4-scout`` | `50 query`/day, `5 Search` query/day, `1 AD`/day |
 | [freegpt.es](https://freegpt.es/) |  `gpt-4o`, `DeepSeek`, `Grok`, `Gemini` etc.. | `50 requests` per day or more |
 | [link.fuckicoding.com](https://link.fuckicoding.com/) |  `chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`| Allow Alot of requests |
