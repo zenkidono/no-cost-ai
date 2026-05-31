@@ -91,7 +91,6 @@
 | [chat2.free2gpt.com]() | `gpt-4o-mini`, `wbot-t1-mini`, `wbot-4-347b`, `deepseek-chat`, `deepseek-coder`, `ds-r1-distill-70b`, `wbot-2`, `wbot-2-friend`, `wbot-2-cat-v2`, `wbot-2-cat-m`, `gpt-4.1-mini`| Allow Alot of requests also has JB prompts and loads of inbuilt options|
 | [free.netfly.top](https://free.netfly.top/) | `GPT-40-mini` |Unlimited|
 | [chat.ai365vip.com](https://chat.ai365vip.com/en) |`GPT-4o` |Unlimited|
-| [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`|Unlimited|
 | [kimi.com](https://kimi.com) |`K2`, `K1.5` | some usage more if you signup or host the model urself its opensource|
 | [gemini.google.com](https://gemini.google.com) | `gemini-2.5-fast` | `32,000 tokens`, `5-10 prompts` per day, No Image-File-Audio-Generation |
 | [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5` | Unlimited, `1` image per day|
