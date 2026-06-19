@@ -126,8 +126,8 @@
 | Link | Free Models | Limits |
 | --- | --- | --- |
 | [uncloseai.com](https://uncloseai.com/) |`Hermes AI`, `Qwen 3 Coder`, `TTS Speech`|Unlimited, OpenAI-compatible API|
-| [github/ollamafreeapi](https://github.com/mfoud444/ollamafreeapi/) |`To many to list..`|Unknown|
-| [ollama.com](https://ollama.com) |`To many to list..`|Unlimited run on cloud or local machine|
+| [github/ollamafreeapi](https://github.com/mfoud444/ollamafreeapi/) |`Too many to list..`|Unknown|
+| [ollama.com](https://ollama.com) |`Too many to list..`|Unlimited run on cloud or local machine|
 | [g4f.dev](https://g4f.dev/docs/ready_to_use.html) | `qroq`, `ollama`, `pollinations.ai`, `nvidia`, `grok`, `gemini`, `gpt-oss-120b` (requires g4f.dev [Api Key](https://g4f.dev/api_key.html) Just type a random `userId`) | Unlimited|
 
 ---
