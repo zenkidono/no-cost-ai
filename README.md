@@ -86,7 +86,6 @@
 | [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
 | [heck.ai](https://heck.ai) |``deepseek-v3`, `deepseek-r1-pro`, `gemini-2.5-flash`, `chatgpt-4o-mini`, `chatgpt-4.1-mini`, `grok-3-mini`, `llama-4-scout`` | `50 query`/day, `5 Search` query/day, `1 AD`/day |
 | [freegpt.es](https://freegpt.es/) |  `gpt-4o`, `DeepSeek`, `Grok`, `Gemini` etc.. | `50 requests` per day or more |
-| [link.fuckicoding.com](https://link.fuckicoding.com/) |  `chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`| Allow Alot of requests |
 | [chat2.free2gpt.com](https://chat2.free2gpt.com/) | `Gemini` | Allow Alot of requests |
 | [chat2.free2gpt.com]() | `gpt-4o-mini`, `wbot-t1-mini`, `wbot-4-347b`, `deepseek-chat`, `deepseek-coder`, `ds-r1-distill-70b`, `wbot-2`, `wbot-2-friend`, `wbot-2-cat-v2`, `wbot-2-cat-m`, `gpt-4.1-mini`| Allow Alot of requests also has JB prompts and loads of inbuilt options|
 | [free.netfly.top](https://free.netfly.top/) | `GPT-40-mini` |Unlimited|
